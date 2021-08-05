@@ -1,0 +1,3 @@
+/home/leonard/geometria_computacional/02_cascos_convexos/build/CMakeFiles/rebuild_cache.dir
+/home/leonard/geometria_computacional/02_cascos_convexos/build/CMakeFiles/edit_cache.dir
+/home/leonard/geometria_computacional/02_cascos_convexos/build/CMakeFiles/myConvexHullExperiments.dir

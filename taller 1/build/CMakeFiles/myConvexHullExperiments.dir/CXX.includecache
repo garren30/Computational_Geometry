@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonard/geometria_computacional/02_cascos_convexos/ConvexHull.h
+ConvexHull.hxx
+/home/leonard/geometria_computacional/02_cascos_convexos/ConvexHull.hxx
+
+/home/leonard/geometria_computacional/02_cascos_convexos/ConvexHull.hxx
+
+/home/leonard/geometria_computacional/02_cascos_convexos/experiment.cxx
+chrono
+-
+fstream
+-
+iostream
+-
+iterator
+-
+random
+-
+sstream
+-
+vector
+-
+algorithm
+-
+ConvexHull.h
+/home/leonard/geometria_computacional/02_cascos_convexos/ConvexHull.h
+
